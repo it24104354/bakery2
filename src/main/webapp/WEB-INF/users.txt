@@ -1,0 +1,11 @@
+Franki,Ampara,Malabe,758569258,s@gmail.com,null
+Franki,Ampara,Colombo,758569258,sheron@gmail.com,12345
+Pranika,Dehivala,Colombo,758569258,pranikas@gmail.com,1234
+raseen,kotahena,Colombo,772345671,ras@gmail.com,ra123
+Franki,Ampara,Colombo,758569258,s@gmail.com,null
+juki,Mattakuliya,Colombo,772345671,juki@gmail.com,123
+minoli,Colombo 15,narahenpita,767004796,christalinminoli@gmail.com,null
+nelundi,Kurunagala,Malabe,772345671,nelu@gmail.com,nelu@123
+Chenumi,Malabe,Colombo,758569258,c@gmail.com,c@123
+clark kent,califonia,usa,325674861,superman@gmail.com,s@123
+clark kent,califonia,usa,325674861,S@gmail.com,S@123
